@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/Conight/go-googletrans v0.2.3
 	github.com/Eun/go-hit v0.5.23
-	github.com/Masterminds/squirrel v1.5.3
+	github.com/Masterminds/squirrel v1.5.4
 	github.com/gin-gonic/gin v1.9.0
 	github.com/golang-migrate/migrate/v4 v4.15.2
 	github.com/golang/mock v1.6.0
