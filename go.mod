@@ -16,7 +16,7 @@ require (
 	github.com/rs/zerolog v1.29.0
 	github.com/streadway/amqp v1.0.0
 	github.com/stretchr/testify v1.8.2
-	github.com/swaggo/files v1.0.0
+	github.com/swaggo/files v1.0.1
 	github.com/swaggo/gin-swagger v1.5.3
 	github.com/swaggo/swag v1.8.10
 )
