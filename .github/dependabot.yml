@@ -12,3 +12,13 @@ updates:
       interval: daily
     open-pull-requests-limit: 10
 
+
+  - package-ecosystem: docker
+    directory: /
+    schedule:
+      interval: daily
+
+  - package-ecosystem: docker
+    directory: /integration-test
+    schedule:
+      interval: daily
