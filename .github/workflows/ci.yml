@@ -14,7 +14,7 @@ jobs:
       - name: Check out code into the Go module directory
         uses: actions/checkout@8e5e7e5ab8b370d6c329ec480221332ada57f0ab # v3.5.2
       - name: golangci-lint
-        uses: reviewdog/action-golangci-lint@79d32f10b2ea0d4cebb755d849b048c4b40c3d50 # v2.3.1
+        uses: reviewdog/action-golangci-lint@994abff94c2f4c5a6b91fc4f409250e9563ff5c2 # v2.3.2
 
   yamllint:
     name: runner / yamllint
