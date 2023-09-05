@@ -42,7 +42,7 @@ jobs:
           egress-policy: audit
 
       - uses: actions/checkout@8e5e7e5ab8b370d6c329ec480221332ada57f0ab # v3.5.2
-      - uses: reviewdog/action-hadolint@141ffd8d2f0b75e6fc7c87341331985448b62aa4 # v1.34.1
+      - uses: reviewdog/action-hadolint@fcee1ac512e8fb0bac9e3ac793f141d9142bb39e # v1.35.1
         with:
           fail_on_error: true
           reporter: github-pr-review
